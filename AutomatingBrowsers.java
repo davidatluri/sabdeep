@@ -19,6 +19,8 @@ public class AutomatingBrowsers {
 		ad.navigate().forward();
 		ad.navigate().refresh();
 		ad.close();
+
+		//david code
 		
 }
 
